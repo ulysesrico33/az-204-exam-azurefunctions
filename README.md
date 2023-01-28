@@ -7,6 +7,10 @@ This code is only for covering Azure Functions , practice as much as possible :
 
 - https://github.com/trainermaruti/azure-functions-host.git
 
+# Links
+
+- [Work with Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v4%2Cwindows%2Ccsharp%2Cportal%2Cbash)
+
 # Wiki 
 
 - See more in [Wiki](https://github.com/ulysesrico33/az-204-exam-azurefunctions/wiki)
