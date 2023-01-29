@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_204_exam_azurefunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7077",
+      "launchBrowser": false
+    }
+  }
+}
